@@ -1,8 +1,7 @@
-
 *monitor: eDP-1
 *monitorext: HDMI-1
 
 i3wm*mod: Mod1
 i3wm*win: Mod4
 
-i3wm*font: pango:Fira Code 8
+i3wm*font: pango:Fira Code 10
