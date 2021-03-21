@@ -1,7 +1,11 @@
-*monitor: eDP-1
-*monitorext: HDMI-1
+*monitor: DP-2
+*monitorext: HDMI-0
 
 i3wm*mod: Mod1
 i3wm*win: Mod4
 
-i3wm*font: pango:Fira Code 10
+i3wm*font: pango:Fira Code 8
+
+Xcursor*size:  26
+
+*.dpi: 287
