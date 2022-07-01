@@ -1,0 +1,5 @@
+*.dpi: 192
+
+! no i3 gaps in mono screen
+i3wn.innergap: 0
+i3wn.outergap: 0
